@@ -115,7 +115,7 @@ function Registration() {
         open={openSnackbar}
         autoHideDuration={6000}
         onClose={handleSnackbarClose}
-        message="Thank you for registering! We'll be in touch soon."
+        message="Thank you for registering! We'll be in touch soon..."
       />
     </form>
   );
